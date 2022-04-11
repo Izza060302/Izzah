@@ -1,0 +1,2 @@
+com/izza/daftartemaan/BuildConfig.java
+ com.izza.daftartemaan.BuildConfig
